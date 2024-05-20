@@ -17,7 +17,7 @@ Este é um aplicativo simples de conversão de moedas, permitindo que o usuário
 ## EXECUTANDO O PROJETO:
 1. **Executando o Aplicativo:**
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
-   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/index.php`.
+   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/index.html`.
 
 2. **Interagir com o Projeto:**
    1. Insira a quantidade de reais que deseja converter para dólares no campo fornecido.
